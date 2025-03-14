@@ -317,7 +317,6 @@ def save_to_csv(all_paths_fidelity, HQ_seed, HQ_percent):
             writer.writerow([HQ_percent, HQ_seed, path, sd_pairs, path_length, path_order, fidelity])
 
 
-
 def main():
     n = 5  # grid size
     num_combinations = 100  # number of sd_pairs combinations
