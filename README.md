@@ -35,7 +35,7 @@ QuantaRoute2.0 is an advanced Python-based simulator for quantum networks that b
   
 ## References
 - **Published version:** Kumar, V., et al.: Routing in quantum networks with end‐to‐end knowledge. IET Quant. Comm. e70000 (2025). https://doi.org/10.1049/qtc2.70000
-- **Preprint:** Kumar, Vinay, et al. "Routing in Quantum Repeater Networks with Mixed Efficiency Figures." arXiv preprint arXiv:2310.08990 (2023).
+- **Preprint:** Kumar, Vinay, et al. "Routing in Quantum Networks with End-to-End Knowledge." arXiv e-prints (2024): arXiv-2407.
 - **Initial Version:** The initial version of QuantaRoute is available at https://github.com/vk9696/quantum-routing1.
 
   
