@@ -38,11 +38,21 @@ QuantaRoute2.0 is an advanced Python-based simulator for quantum networks that b
 - **Preprint:** Kumar, Vinay, et al. "Routing in Quantum Networks with End-to-End Knowledge." arXiv e-prints (2024): arXiv-2407.
 - **Initial Version:** The initial version of QuantaRoute is available at https://github.com/vk9696/quantum-routing1.
 
-  
-## Installation
+  ## Installation
 
-To get started with QuantaRoute, follow these simple installation instructions:
+To get started with QuantaRoute2.0, follow these simple installation instructions:
 
-```bash
-git clone https://github.com/vk9696/quantum-routing2.git
+1. **Clone the repository:**
+```sh
+git clone https://github.com/vk9696/quantum-routing1.git
+```
+
+2. **Navigate to the QuantaRoute directory:**
+```sh
 cd quantum-routing2
+```
+
+3. **Install the required dependencies:**
+```sh
+pip install -r requirements.txt
+```
