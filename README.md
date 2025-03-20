@@ -44,7 +44,7 @@ To get started with QuantaRoute2.0, follow these simple installation instruction
 
 1. **Clone the repository:**
 ```sh
-git clone https://github.com/vk9696/quantum-routing1.git
+git clone https://github.com/vk9696/quantum-routing2.git
 ```
 
 2. **Navigate to the QuantaRoute directory:**
